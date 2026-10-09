@@ -1,6 +1,7 @@
+ HEAD
 # 🌾 Gather & Grain — Shared Table Dining Portal
 
-> A hackathon restaurant portal whose signature feature is **Shared Table Ordering**, engineered to work entirely client-side with **zero external services**.
+A hackathon restaurant portal whose signature feature is **Shared Table Ordering**, engineered to work entirely client-side with **zero external services**.
 
 ---
 
@@ -83,3 +84,6 @@ npm run preview
 4. **Step 4 — Split the Bill**: Open the cart and click "Split the Bill". Switch between *Equal Split* and *By Person's Items*.
 5. **Step 5 — Place Order & Tracker**: Confirm order to see the synchronized Live Tracker and queue depth.
 6. **Step 6 — Kitchen Display**: Click "Staff KDS", enter PIN `1234`, advance orders, test "Rush Hour Demo", and hit "Undo Last".
+=======
+# restaurant-ordering-system
+>>>>>>> 0dff264861bed4a430134f2e6e27d3e92e6e0912
